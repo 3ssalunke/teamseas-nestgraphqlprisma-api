@@ -2,10 +2,7 @@
 
 ```bash
 # development
-$ npm run start
-
-# watch mode
-$ npm run start:dev
+$ npm run dev
 
 # production mode
 $ npm run start:prod
